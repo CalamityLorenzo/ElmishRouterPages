@@ -10,7 +10,7 @@
     "fable-loader": "^2.1.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "webpack": "^4.44.2",
+    "webpack": "^5.105.2",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   },
