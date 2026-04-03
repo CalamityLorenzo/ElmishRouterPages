@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
-    "copy-webpack-plugin": "^6.2.0",
+    "copy-webpack-plugin": "^13.0.1",
     "css-loader": "^4.3.0",
     "fable-utils": "^1.2.0",
     "file-loader": "^6.1.0",
